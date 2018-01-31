@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Facebook Redirect Remover",
+  "description": "This extension removes redirect from link opened from Facebook.",
+  "version": "1.0",
+
+  "background": {
+   "scripts": ["background.js"]
+ },
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+      "*://*.facebook.com/"
+  ]
+}
