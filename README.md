@@ -5,7 +5,11 @@ This chrome extension intercepts facebook web requests and if it is a redirect u
 
 Works on Facebook and other Facebook products like Workplace too.
 
-# Installation
+# Installation from Chrome Webstore
+
+  - Add the extension directly from [here](https://chrome.google.com/webstore/detail/facebook-redirect-remover/gmkfihmhgnmffkbnifdhclndiapbbhaj)
+  
+# Installation from source
 
   - Download the [zip file](https://github.com/muthuraj57/Facebook-Redirect-Remover/archive/master.zip) and extract it.
   - Follow the instructions [here](https://developer.chrome.com/extensions/getstarted#unpacked) to load the extension to your Chrome browser
